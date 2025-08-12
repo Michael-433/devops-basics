@@ -30,6 +30,21 @@ This is the **first** repo of my DevOps trio repositories: [**devops-basics**](h
 
 DevOps combines development (Dev) and operations (Ops) to increase the efficiency, speed, and security of software development and delivery compared to traditional processes. A more nimble software development lifecycle results in a competitive advantage for businesses and their customers (source: GitLab)
 
+DevOps = Development + Operations
+It’s a software development culture and set of practices that aims to bring developers (Dev) and IT operations (Ops) teams together.
+The goal is to shorten the software development life cycle and deliver high-quality software quickly and reliably
+
+Key ideas in DevOps:
+
+Collaboration – Dev & Ops work as one team instead of separate silos.
+
+Automation – Automating builds, tests, deployments, and monitoring.
+
+Continuous Integration (CI) – Frequently merging code changes into a shared repository and testing them.
+
+Continuous Delivery/Deployment (CD) – Automatically releasing tested code to production or staging environments.
+
+Monitoring & Feedback – Continuously tracking system health, user experience, and performance to improve.
 For a deeper understanding, please refer to the definition from the big company:
 
 - From AWS: [What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
